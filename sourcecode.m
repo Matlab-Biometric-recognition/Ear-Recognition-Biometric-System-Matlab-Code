@@ -4,9 +4,7 @@
 % In order to obtain the complete source code please visit my website
 % 
 % http://matlab-recognition-code.com/ear-recognition-system-matlab-full-source-code/
-% 
-% For more information please email me hamdouchhd@hotmail.com
-%
+% %
 % website http://matlab-recognition-code.com
 %
 %
